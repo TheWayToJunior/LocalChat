@@ -1,0 +1,19 @@
+D:\С#\WCF\WCF_2\Host\bin\Debug\Host.exe.config
+D:\С#\WCF\WCF_2\Host\bin\Debug\Host.exe
+D:\С#\WCF\WCF_2\Host\bin\Debug\Host.pdb
+D:\С#\WCF\WCF_2\Host\bin\Debug\Service.dll
+D:\С#\WCF\WCF_2\Host\bin\Debug\Service.pdb
+D:\С#\WCF\WCF_2\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\С#\WCF\WCF_2\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+D:\С#\WCF\WCF_2\Host\obj\Debug\Host.csproj.CopyComplete
+D:\С#\WCF\WCF_2\Host\obj\Debug\Host.exe
+D:\С#\WCF\WCF_2\Host\obj\Debug\Host.pdb
+D:\С#\.NET Framework\Messenger\WCF\Host\bin\Debug\Host.exe.config
+D:\С#\.NET Framework\Messenger\WCF\Host\bin\Debug\Host.exe
+D:\С#\.NET Framework\Messenger\WCF\Host\bin\Debug\Host.pdb
+D:\С#\.NET Framework\Messenger\WCF\Host\bin\Debug\Service.dll
+D:\С#\.NET Framework\Messenger\WCF\Host\bin\Debug\Service.pdb
+D:\С#\.NET Framework\Messenger\WCF\Host\obj\Debug\Host.csprojAssemblyReference.cache
+D:\С#\.NET Framework\Messenger\WCF\Host\obj\Debug\Host.csproj.CopyComplete
+D:\С#\.NET Framework\Messenger\WCF\Host\obj\Debug\Host.exe
+D:\С#\.NET Framework\Messenger\WCF\Host\obj\Debug\Host.pdb

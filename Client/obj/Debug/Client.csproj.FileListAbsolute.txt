@@ -1,0 +1,13 @@
+D:\С#\WCF\WCF_2\Client\bin\Debug\Client.exe.config
+D:\С#\WCF\WCF_2\Client\bin\Debug\Client.exe
+D:\С#\WCF\WCF_2\Client\bin\Debug\Client.pdb
+D:\С#\WCF\WCF_2\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\С#\WCF\WCF_2\Client\obj\Debug\Client.exe
+D:\С#\WCF\WCF_2\Client\obj\Debug\Client.pdb
+D:\С#\WCF\WCF_2\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\С#\.NET Framework\Messenger\WCF\Client\bin\Debug\Client.exe.config
+D:\С#\.NET Framework\Messenger\WCF\Client\bin\Debug\Client.exe
+D:\С#\.NET Framework\Messenger\WCF\Client\bin\Debug\Client.pdb
+D:\С#\.NET Framework\Messenger\WCF\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\С#\.NET Framework\Messenger\WCF\Client\obj\Debug\Client.exe
+D:\С#\.NET Framework\Messenger\WCF\Client\obj\Debug\Client.pdb

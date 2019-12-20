@@ -1,0 +1,11 @@
+D:\С#\WCF\WCF_2\Service\bin\Debug\Service.dll
+D:\С#\WCF\WCF_2\Service\bin\Debug\Service.pdb
+D:\С#\WCF\WCF_2\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\С#\WCF\WCF_2\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+D:\С#\WCF\WCF_2\Service\obj\Debug\Service.dll
+D:\С#\WCF\WCF_2\Service\obj\Debug\Service.pdb
+D:\С#\.NET Framework\Messenger\WCF\Service\bin\Debug\Service.dll
+D:\С#\.NET Framework\Messenger\WCF\Service\bin\Debug\Service.pdb
+D:\С#\.NET Framework\Messenger\WCF\Service\obj\Debug\Service.csprojAssemblyReference.cache
+D:\С#\.NET Framework\Messenger\WCF\Service\obj\Debug\Service.dll
+D:\С#\.NET Framework\Messenger\WCF\Service\obj\Debug\Service.pdb
